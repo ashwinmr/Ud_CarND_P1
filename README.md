@@ -32,9 +32,9 @@ In order to draw a single line on the left and right lanes I modified the draw_l
 
 Working of the pipeline:
 
-![solidWhiteCurve][test_images_output/solidWhiteCurve.jpg]
-![solidWhiteRight][test_images_output/solidWhiteRight.jpg]
-![solidYellowCurve][test_images_output/solidYellowCurve.jpg]
-![solidYellowCurve2][test_images_output/solidYellowCurve2.jpg]
-![solidYellowLeft][test_images_output/solidYellowLeft.jpg]
-![whiteCarLaneSwitch][test_images_output/whiteCarLaneSwitch.jpg]
+![solidWhiteCurve](test_images_output/solidWhiteCurve.jpg)
+![solidWhiteRight](test_images_output/solidWhiteRight.jpg)
+![solidYellowCurve](test_images_output/solidYellowCurve.jpg)
+![solidYellowCurve2](test_images_output/solidYellowCurve2.jpg)
+![solidYellowLeft](test_images_output/solidYellowLeft.jpg)
+![whiteCarLaneSwitch](test_images_output/whiteCarLaneSwitch.jpg)
